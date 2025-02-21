@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItaloMaia17
 - 👀 I’m interested in adquirir conhecimento
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projetos Relevantes 
 - 📫 How to reach me ...
 
