@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ItaloMaia17
-- 👀 I’m interested in adquirir conhecimento
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Projetos Relevantes 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me aitalomaia@gmail.com
 
 <!---
 ItaloMaia17/ItaloMaia17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
