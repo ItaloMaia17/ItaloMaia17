@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItaloMaia17
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python, React, TypeScript
 - 📫 How to reach me aitalomaia@gmail.com
 
 <!---
