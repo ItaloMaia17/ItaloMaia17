@@ -21,5 +21,5 @@ Gosto de aprender novos conceitos, desenvolver projetos práticos e explorar dif
 ---
 
 ## 📫 Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ítalo-maia-612338293)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ítalo-maia-612338293)
 
