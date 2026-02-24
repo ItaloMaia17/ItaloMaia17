@@ -7,8 +7,7 @@ Gosto de aprender novos conceitos, desenvolver projetos práticos e explorar dif
 
 ## 🚀 Tecnologias que estudo e utilizo
 - **Linguagens:** Python, JavaScript, TypeScript, SQL, Kotlin  
-- **Frameworks e ferramentas:** React, Vite, FastAPI, Jetpack Compose  
-- **Outros:** Git/GitHub, Docker, Android Studio
+- **Frameworks e ferramentas:** React, Vite, FastAPI, Jetpack Compose
 
 ---
 
